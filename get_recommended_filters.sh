@@ -5,7 +5,7 @@ touch input.csv
 
 # declare an array of urls
 urls=(
-  https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
   https://abpvn.com/vip/kkhoa312.txt
 )
 
