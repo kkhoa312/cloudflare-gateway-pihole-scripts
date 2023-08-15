@@ -7,6 +7,7 @@ touch input.csv
 urls=(
   https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
   https://easylist.to/easylist/easylist.txt
+  https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://abpvn.com/vip/kkhoa312.txt
 )
 
